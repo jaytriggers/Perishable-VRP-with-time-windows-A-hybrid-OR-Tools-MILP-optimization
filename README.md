@@ -1,1 +1,1 @@
-# Perishable VRP with time windows: A hybrid OR-Tools MILP optimization.
+# Perishable VRP with time windows: A hybrid OR-Tools-MILP optimization.
